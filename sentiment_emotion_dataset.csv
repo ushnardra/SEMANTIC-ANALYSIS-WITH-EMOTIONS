@@ -1,0 +1,156 @@
+text,sentiment,emotion
+The product is good,Positive,Happy
+I love this product it's amazing,Positive,Happy
+"This is absolutely horrible, I hate it.",Negative,Angry
+"it's okay, it's great but not bad either.",Neutral,Neutral
+"Bad experience, never buying from here again!",Negative,Angry
+The product is not good,Negative,Sad
+I am not happy with this,Negative,Sad
+This is the worst product I have ever seen,Negative,Angry
+I am extremely disappointed with this purchase,Negative,Angry
+This is not what I expected,Negative,Sad
+I will not recommend this,Negative,Sad
+I am not satisfied at all,Negative,Sad
+I was hoping for a better product,Negative,Sad
+"The product is okay, I guess",Neutral,Neutral
+I am somewhat satisfied with it,Neutral,Neutral
+The product was just fine,Neutral,Neutral
+The movie was not bad,Neutral,Neutral
+The service was not great,Negative,Sad
+This is not good at all,Negative,Angry
+This is the best thing ever,Positive,Happy
+The experience was good,Positive,Happy
+I am so glad I bought this,Positive,Happy
+I had an awful experience,Negative,Angry
+This is amazing,Positive,Happy
+I absolutely love it,Positive,Happy
+It is a good product,Positive,Happy
+"The quality is decent, but the price is too high.",Negative,Sad
+Great service and fast delivery,Positive,Happy
+I feel like I got totally ripped off.,Negative,Angry
+The design is beautiful and works perfectly.,Positive,Happy
+Great product and good quality,Positive,Happy
+This is a terrible experience,Negative,Angry
+I am so angry about this,Negative,Angry
+I feel so frustrated with this product,Negative,Angry
+This is unacceptable,Negative,Angry
+I am furious,Negative,Angry
+This is a rip off,Negative,Angry
+This product is trash,Negative,Angry
+I want my money back,Negative,Angry
+This made me very upset,Negative,Angry
+I am extremely unhappy with this,Negative,Angry
+I am very displeased,Negative,Angry
+I cannot believe how bad this is,Negative,Angry
+This is the worst purchase of my life,Negative,Angry
+I am regretting buying this,Negative,Angry
+What a terrible product,Negative,Angry
+I am not satisfied with this at all,Negative,Angry
+This is a horrible product,Negative,Angry
+This is not acceptable at all,Negative,Angry
+This is outrageous,Negative,Angry
+The price of this product is too high for me ,Negative,Sad
+The product is not worth the money,Negative,Sad
+The price is too expensive,Negative,Sad
+I feel like I wasted my money,Negative,Sad
+I am not happy with the price,Negative,Sad
+The product is overpriced,Negative,Sad
+I am disappointed with the cost,Negative,Sad
+The product is not worth the price,Negative,Sad
+The product is too costly for me ,Negative,Sad
+I am so mad,Negative,Angry
+I am so angry,Negative,Angry
+I am so frustrated,Negative,Angry
+I am so upset,Negative,Sad
+I am so disappointed,Negative,Sad
+I am so annoyed,Negative,Angry
+I am so irritated,Negative,Angry
+I am so displeased,Negative,Angry
+I am so dissatisfied,Negative,Angry
+I am so unhappy,Negative,Sad
+I am so let down,Negative,Sad
+I am so disheartened,Negative,Sad
+I am so discouraged,Negative,Sad
+Absolutely fantastic! I'm beyond thrilled with this purchase.,Positive,Happy
+Exceeded my expectations! A truly remarkable product.,Positive,Happy
+This is pure garbage. Complete waste of money and time.,Negative,Angry
+"It's alright, not particularly impressive, but not bad either.",Neutral,Neutral
+"Horrendous service, I'll be taking my business elsewhere.",Negative,Angry
+The product is subpar and underwhelming.,Negative,Sad
+I'm quite disappointed with what I received.,Negative,Sad
+Never have I encountered such a dreadful product.,Negative,Angry
+I'm severely let down by this entire ordeal.,Negative,Angry
+This bears no resemblance to what was advertised.,Negative,Sad
+I couldn't possibly endorse this to anyone.,Negative,Sad
+My satisfaction level is virtually nonexistent.,Negative,Sad
+I had anticipated a far superior product.,Negative,Sad
+"It's acceptable, I suppose, nothing extraordinary.",Neutral,Neutral
+I'm relatively pleased with the outcome.,Neutral,Neutral
+"The item was standard, nothing exceptional.",Neutral,Neutral
+"The film was unremarkable, neither outstanding nor terrible.",Neutral,Neutral
+The assistance was inadequate.,Negative,Sad
+It's utterly unsatisfactory in every aspect.,Negative,Angry
+It's the epitome of perfection.,Positive,Happy
+The whole experience was delightful.,Positive,Happy
+I'm ecstatic about this acquisition.,Positive,Happy
+I endured a truly horrific encounter.,Negative,Angry
+It's simply astounding.,Positive,Happy
+I'm infatuated with it.,Positive,Happy
+It's a commendable item.,Positive,Happy
+"The quality is average, but the cost is excessive.",Negative,Sad
+Exceptional support and prompt shipment.,Positive,Happy
+I believe I was conned.,Negative,Angry
+The aesthetics are captivating and function flawlessly.,Positive,Happy
+Superb merchandise and premium grade.,Positive,Happy
+This constitutes a disastrous ordeal.,Negative,Angry
+I'm seething with rage over this.,Negative,Angry
+I'm incredibly aggravated by this.,Negative,Angry
+It's completely unacceptable.,Negative,Angry
+I'm incandescent with fury.,Negative,Angry
+It's a complete scam.,Negative,Angry
+This item is mere refuse.,Negative,Angry
+I request my funds to be reimbursed.,Negative,Angry
+This has left me extremely disheartened.,Negative,Angry
+I'm immensely displeased with this.,Negative,Angry
+I'm deeply aggrieved.,Negative,Angry
+I'm shocked by the depths of its awfulness.,Negative,Angry
+This represents the most regrettable transaction of my life.,Negative,Angry
+I'm lamenting this purchase.,Negative,Angry
+Such an appalling item.,Negative,Angry
+I derive no satisfaction from this whatsoever.,Negative,Angry
+This is a truly lamentable item.,Negative,Angry
+This is utterly intolerable.,Negative,Angry
+This is preposterous.,Negative,Angry
+The tag is damaged but the shirt is fine,Neutral,Neutral
+It arrived in a cardboard box,Neutral,Neutral
+There was a dent in the cardboard box,Negative,Sad
+There was a flower next to the door,Neutral,Neutral
+They cancelled my order,Negative,Angry
+The order process was easy,Positive,Happy
+The product was easy to assemble,Positive,Happy
+The product did not include instructions,Negative,Sad
+The pricing is insane,Negative,Angry
+The color isn't what it should be,Negative,Sad
+the color is perfect,Positive,Happy
+This is exactly what I wanted,Positive,Happy
+Shipping was delayed,Negative,Sad
+Shipping was fast,Positive,Happy
+The material feels cheap,Negative,Sad
+The material is durable and of good quality,Positive,Happy
+The sizing is not accurate,Negative,Sad
+The sizing is accurate,Positive,Happy
+The software is buggy and unreliable,Negative,Angry
+The software is stable and reliable,Positive,Happy
+Customer support was unhelpful and rude,Negative,Angry
+Customer support was extremely helpful and responsive,Positive,Happy
+Returns were very easy and straight forward,Positive,Happy
+I had a lot of trouble returning this item,Negative,Angry
+I am never buying this again,Negative,Angry
+Will gladly buy again,Positive,Happy
+"Do not buy this, the support team is incompetent",Negative,Angry
+This broke after one use,Negative,Angry
+Great experience overall.,Positive,Happy
+"Can't say anything bad, but I wouldn't rave about it.",Neutral,Neutral
+"The packaging was all torn up, but the product wasn't damaged.",Neutral,Neutral
+The delivery guy was really nice.,Positive,Happy
+"There was nothing wrong with it, but it didn't improve my life either.",Neutral,Neutral
