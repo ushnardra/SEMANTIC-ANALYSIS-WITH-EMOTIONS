@@ -62,5 +62,5 @@ python visualize_data.py
 This project is open-source under the MIT License.
 
 ## Author
-Developed by USHU
+Developed by Ushnardra
 
