@@ -1,0 +1,6 @@
+.venv
+data/combined_emotion.csv
+data/emotion_dataset_raw.csv
+model/text_emotion.pkl
+model/text_emotionnew.pkl
+balancing.py
